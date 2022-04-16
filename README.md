@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmik</h1>
-<h3 align="center">A Web Developer Enthusiast🙌</h3>
+<h3 align="center">A Web Development Enthusiast🙌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmik48&label=Profile%20views&color=0e75b6&style=flat" alt="dharmik48" /> </p>
 
