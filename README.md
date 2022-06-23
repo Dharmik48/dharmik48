@@ -13,8 +13,8 @@ I've been learning Web Development for 2 years and it has really grown on me! It
 * 🤝  I'm open to collaborating on any project realated to Web Development
 * ⚡  I'm Anime fanatic who also loves to play 🎮 video games
 
-<a href="https://www.twitter.com/hingudharmik" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hingudharmik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/frontendilia" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/frontendilia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/dharmik48" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dharmik48?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/dharmik48?logo=github&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/dharmik403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Dharmik#7971" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dharmik48" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dhamuu_403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dharmik-hingu-216797239" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hingudharmik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/dharmik403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Dharmik#7971" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dharmik48" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dhamuu_403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dharmik-hingu-216797239" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/frontendilia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
