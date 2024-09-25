@@ -8,8 +8,7 @@ I've been learning Web Development for 2 years and it has really grown on me! It
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hingudharmik4@gmail.com](mailto:hingudharmik4@gmail.com)
-* 🚀  I'm currently working on [SeeIt](https://github.com/Dharmik48/seeit)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning AI Engineering
 * 🤝  I'm open to collaborating on any project realated to Web Development
 * ⚡  I'm Anime fanatic who also loves to play 🎮 video games
 
